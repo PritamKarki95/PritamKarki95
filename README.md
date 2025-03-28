@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHAzdmlvbGo5emo3dHFhejJxNTB0NWducGptNmU1NHlmMnhveXNpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif">
 
 
-- 🔭 I’m currently working on **DocVault Application.**
+- 🔭 I’m currently learning on **ML.**
 
 - 🌱 I’m currently learning **Python Libraries | Database Management | Backend Development**
 
